@@ -56,3 +56,5 @@ echo "BfMYroe26WYalil77FoDi9qh59eK5xNr" | openssl s_client -ign_eof
 bandit16@bandit.labs.overthewire.org
 cluFn7wTiGryunymYOu4RcffSxQluehd
 
+test
+
